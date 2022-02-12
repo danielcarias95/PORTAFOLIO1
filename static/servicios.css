@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Libre+Baskerville&family=Space+Mono:ital,wght@0,400;0,700;1,700&display=swap');
+*{
+    font-family: "Bebas Neue";
+}
+
+
+.foto{
+    float: right;
+}
+
+body{
+    background-image: url("https://i.ytimg.com/vi/CyjgZC1SYz4/maxresdefault.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: aliceblue;
+    margin: 50px;
+}
+
+.backhome{
+    position: fixed;
+    top: 2%;
+    left: 93%;
+    font-size: 30px;
+}
+
+a{
+        text-decoration: none;
+    background-color: rgb(47, 70, 137);
+    color: rgb(255, 237, 218);
+    padding: 3px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.titulo{
+    font-size: 75px;   
+    color: rgb(66, 71, 71);
+}
+
+.list{
+    font-size: 40px;
+}
+
+

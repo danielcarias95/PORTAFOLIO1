@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Libre+Baskerville&family=Space+Mono:ital,wght@0,400;0,700;1,700&display=swap');
+*{
+    font-family: "Bebas Neue";
+}
+
+body{
+    background-image: url('https://www.pixel4k.com/wp-content/uploads/2018/09/new-york-usa-skyscrapers-top-view-4k_1538067918.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.textabout{
+    position: fixed;
+    top: 5px;
+    left: 1820px;
+    font-size: 30px;
+}
+
+.textcontact{
+    position: fixed;
+    top: 5px;
+    left: 1720px;
+    font-size: 30px;
+}
+
+.textservicios{
+    position: fixed;
+    top: 5px;
+    left: 1615px;
+    font-size: 30px;
+}
+
+.centrado{
+    position: fixed;
+    top: 15%;
+    left: 31.5%;
+    font-size: 60px;
+}
+
+.frase{
+    position: fixed;
+    top: 40%;
+    left: 38.5%;
+    background-color: rgb(137, 134, 134);
+    border: rgb(31, 140, 194) 5px solid;
+    font-size: 12px;
+    padding: 4px;
+    border-radius: 50px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+a {
+    text-decoration: none;
+    background-color: rgb(158, 158, 164);
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+    position: fixed;
+}
+
